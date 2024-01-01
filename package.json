@@ -1,0 +1,20 @@
+{
+    "name": "kiarash-portfolio",
+    "version": "1.0.0",
+    "description": "portfolio is made for kiarash-bashokian",
+    "main": "script.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Alireza-Sobhanian",
+    "license": "ISC",
+    "devDependencies": {
+        "autoprefixer": "^10.4.16",
+        "cssnano": "^6.0.1",
+        "gulp": "^4.0.2",
+        "gulp-postcss": "^9.0.1",
+        "gulp-sass": "^5.1.0",
+        "gulp-uglify": "^3.0.2",
+        "sass": "^1.69.3"
+    }
+}
